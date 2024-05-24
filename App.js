@@ -19,6 +19,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
     fontSize: 24,
+    color: "#E8E7E7",
   },
 });
 
