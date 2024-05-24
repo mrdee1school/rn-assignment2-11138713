@@ -27,5 +27,6 @@ const textStyle = StyleSheet.create({
   },
   container2: {
     color: "#DBDBDB",
-  }
+    fontSize: 24,
+  },
 });
